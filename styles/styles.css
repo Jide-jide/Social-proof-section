@@ -1,0 +1,9 @@
+/*variable*/
+:root {
+	--color-Very-Dark-Magenta: hsl(300, 43%, 22%);
+	--color-Soft-Pink: hsl(333, 80%, 67%);
+	--color-Dark-Grayish-Magenta: hsl(303, 10%, 53%);
+	--color-Light-Grayish-Magenta: hsl(300, 24%, 96%);
+	--color-White: hsl(0, 0%, 100%);
+	--font-main: White: hsl(0, 0%, 100%);
+}
