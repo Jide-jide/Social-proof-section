@@ -234,3 +234,14 @@ body {
 	}
 }
 
+/*attribution*/
+.attribution {
+    font-size: 1.4rem;
+    text-align: center;
+    font-weight: 500;
+    color: var(--color-Dark-Grayish-Magenta);
+}
+.attribution a {
+	color: purple;
+    text-decoration: none;
+  }
