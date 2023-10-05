@@ -96,7 +96,6 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	order: 2;
 }
 
 .stars {
@@ -152,8 +151,6 @@ body {
 	padding: 35px;
 	color: white;
 	margin-bottom: 16px;
-/*	max-width: 265px;*/
-/*	min-width: 265px;*/
 }
 
 .testimonial-user {
