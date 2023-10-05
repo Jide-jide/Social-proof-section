@@ -25,14 +25,13 @@ Users should be able to:
 ### Screenshot
 
 - Desktop view
-  <img src='./my-design/desktop-view.png' width=60%>
+  <img src='./my-design/desktop-view.png' width=100%>
 - Mobile view
-  <img src='./my-design/mobile-view.png' width=60%>
+  <img src='./my-design/mobile-view.png' width=100%>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github pages](https://jide-jide.github.io/Social-proof-section/)
 
 ## My process
 
