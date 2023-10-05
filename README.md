@@ -25,9 +25,9 @@ Users should be able to:
 ### Screenshot
 
 - Desktop view
-  <img src='./my-design/desktop-view.png' width=100%>
+  <img src='./my-design/desktop-view.png' width=50%>
 - Mobile view
-  <img src='./my-design/mobile-view.png' width=100%>
+  <img src='./my-design/mobile-view.png' width=50%>
 
 ### Links
 
