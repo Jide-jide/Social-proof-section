@@ -190,12 +190,25 @@ body {
 }
 
 @media screen and (min-width: 768px) {
+
 	.testmonial {
-		margin: 15px;
+		margin-bottom: 0;
+	}
+
+	.testmonial:nth-child(2) {
+		margin: 0 30px;
 	}
 
 	.testimonials-block {
 		flex-direction: row;
+		justify-content: space-between;
+	}
+
+	.testmonial:nth-child(2) {
+		margin-top: 20px;
+	}
+	.testmonial:nth-child(3) {
+		margin-top: 40px;
 	}
 }
 
@@ -213,5 +226,5 @@ body {
 
 .social-proof-card {
 
-	width: 1112px;
+	max-width: 1112px;
 }
