@@ -65,10 +65,12 @@ body {
 @media screen and (min-width: 768px) {
 	.socail-proof-header {
 		text-align: left;
+		margin-right: 180px;
 	}
 
 	.header-title {
 		padding: 0;
+		font-size: 4.5rem;
 	}
 }
 
@@ -97,12 +99,12 @@ body {
 }
 
 .stars img {
-	width: 11px;
+	width: 17px;
 	margin: 2px;
 } 
 
 .ratings p {
-	font-size: 1.2rem;
+	font-size: 1.5rem;
 	padding: 5px;
 	font-weight: 700;
 	color: var(--color-Very-Dark-Magenta);
@@ -112,7 +114,8 @@ body {
 	.ratings {
 		flex-direction: row;
 		height: 50px;
-		width: 440px;
+		width: auto;
+		padding: 0 30px;
 	} 
 
 	.ratings p {
@@ -145,7 +148,7 @@ body {
 	color: white;
 	margin-bottom: 16px;
 /*	max-width: 265px;*/
-	min-width: 265px;
+/*	min-width: 265px;*/
 }
 
 .testimonial-user {
@@ -217,14 +220,15 @@ body {
 	display: grid;
 }
 
+.social-proof-card {
+	max-width: 1112px;
+}
+
 @media screen and (min-width: 768px) {
 
 	.grid {
 		grid-template-columns: repeat(2, 1fr);
+
 	}
 }
 
-.social-proof-card {
-
-	max-width: 1112px;
-}
