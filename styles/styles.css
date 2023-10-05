@@ -47,7 +47,7 @@ body {
 }
 
 /*header section*/
-.socail-proof-header {
+.social-proof-header {
 	text-align: center;
 }
 
@@ -68,14 +68,14 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-	.socail-proof-header {
+	.social-proof-header {
 		text-align: left;
-		margin-right: 180px;
+		margin-right: 140px;
 	}
 
 	.header-title {
 		padding: 0;
-		font-size: 4.5rem;
+		font-size: 5rem;
 	}
 }
 
@@ -209,7 +209,7 @@ body {
 
 	.testimonials-block {
 		flex-direction: row;
-		justify-content: space-between;
+		margin-top: 10px;
 	}
 
 	.testmonial:nth-child(2) {
